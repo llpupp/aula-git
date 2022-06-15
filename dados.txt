@@ -1,0 +1,3 @@
+Alteraçoes feitas após clonagem do repositorio aula-git
+
+Criado o repositorio1 - arquivo aula-git clonado
